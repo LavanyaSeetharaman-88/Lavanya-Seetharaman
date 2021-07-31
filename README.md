@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,Lavanya-Seetharaman</h1>
+<h1 align="center">Hi 👋,I`m Lavanya-Seetharaman</h1>
 <h3 align="left">Connect with me </h3>
 <a href="https://twitter.com/LavanyaRaman20" target="blank"><img align="center" src="https://raw.githubusercontent.com/LearnersCode-Creator/Lavanya-Seetharaman/main/twitter.svg" alt="lavanyaseetharaman" height="30" width="40" /></a>
 
