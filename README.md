@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on fresh idea 
 
-- 📫 How to reach me <a href="https://twitter.com/LavanyaRaman20" target="blank"><img align="center" src="https://raw.githubusercontent.com/LearnersCode-Creator/Lavanya-Seetharaman/main/twitter.svg" alt="lavanyaseetharaman" height="30" width="40" /></a>
+- 📫 How to reach me <a href="https://twitter.com/LavanyaRaman20" target="blank"><img align="center" src="https://raw.githubusercontent.com/LearnersCode-Creator/Lavanya-Seetharaman/main/twitter.svg" alt="lavanyaseetharaman" height="30" width="30" /></a>      <a href="https://www.linkedin.com/in/lavanya-seetharaman-b5667a4a/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="lavanyaseetharaman" height="30" width="40" /></a>
 
 
 
